@@ -1,30 +1,28 @@
-# Data Science In Practice
+# Data science on the palms
+
+## Motivation
+
+..........
 
 Structure:
-	1. Instruments
-	2. Data collection
-	3. Preliminary data processing
-	4. Dimension reduction
-	5. Model training and prediction
-	6. Model selection
-
-Common knowledge
+## 1. Instruments
 Python
-Mathematical
-
 Libraries
-
-Collecting data
-Working with databases
-Working with Web
-
+Mathematical knowledge
+.....................
+## 2. Data collection
+Sources
+....................
+## 3. Dataset transformation
 Cleaning data
-
 Data visualization
-
-* ML algorithms
-** ML algorithms
-*** ML algorithms
-ML algorithms from scratch
-Deep Learning
+Feature engineering
+................
+## 4. Model training and prediction
+Machine learning algorithms
+Deep learning
+.........................
+## 5. Model selection
+Metrics
 Algorithms interpretation
+.........................
