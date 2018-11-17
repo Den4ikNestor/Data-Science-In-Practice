@@ -2,27 +2,30 @@
 
 ## Motivation
 
-..........
 
-Structure:
-## 1. Instruments
-Python
-Libraries
-Mathematical knowledge
-.....................
-## 2. Data collection
-Sources
-....................
-## 3. Dataset transformation
-Cleaning data
-Data visualization
-Feature engineering
-................
-## 4. Model training and prediction
-Machine learning algorithms
-Deep learning
-.........................
-## 5. Model selection
-Metrics
-Algorithms interpretation
-.........................
+**– Additional material*
+
+## Tools
+#### - Python
+    - Basic knowledge (syntax, variables, loops, I/O…)
+   	- Data Structures
+    - OOP (Object Oriented Programming)
+    - Standard libraries
+    - Exceptions*
+    - Tests*
+#### - Mathematics knowledge
+    - Probability theory
+    - Statistics
+#### - Libraries
+    - Pandas
+    - Matplotlib
+    - NumPy
+    - Scikit-learn
+#### - Databases
+    - SQL (language)
+    - MySQL, PostgreSQL
+
+## Data Collection
+## Data Pre-processing
+## Model Training
+## Model Evaluation
